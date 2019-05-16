@@ -14,5 +14,5 @@
 
 3. Summary of HoneyPot Data:
  - Total time HoneyPot is active: 30 minutes.
- - Total attacks: 1025
+ - Total attacks: 1774
  - JSON Output file: Available in root folder
